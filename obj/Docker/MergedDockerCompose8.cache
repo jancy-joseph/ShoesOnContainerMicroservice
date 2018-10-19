@@ -1,7 +1,7 @@
 services:
   productcatalogapi:
     build:
-      context: C:\Users\jancy\source\repos\ShoesOnContainers
+      context: C:\Users\jancy\Desktop\GitHUB_Folder\ShoesOnContainerMicroservice
       dockerfile: ProductCatalogAPI/Dockerfile
       target: base
     entrypoint: tail -f /dev/null
@@ -25,7 +25,7 @@ services:
     - published: 44324
       target: 443
     volumes:
-    - C:\Users\jancy\source\repos\ShoesOnContainers\ProductCatalogAPI:/app:rw
+    - C:\Users\jancy\Desktop\GitHUB_Folder\ShoesOnContainerMicroservice\ProductCatalogAPI:/app:rw
     - C:\Users\jancy\vsdbg\vs2017u5:/remote_debugger:ro
     - C:\Users\jancy\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
     - C:\Users\jancy\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro

@@ -1,7 +1,7 @@
 services:
   productcatalogapi:
     build:
-      context: C:\Users\jancy\source\repos\ShoesOnContainers
+      context: C:\Users\jancy\Desktop\GitHUB_Folder\ShoesOnContainerMicroservice
       dockerfile: ProductCatalogAPI/Dockerfile
     environment:
       ASPNETCORE_ENVIRONMENT: Development

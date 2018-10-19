@@ -11546,11 +11546,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jancy\\source\\repos\\ShoesOnContainers\\ProductCatalogAPI\\ProductCatalogAPI.csproj",
+      "projectUniqueName": "C:\\Users\\jancy\\Desktop\\GitHUB_Folder\\ShoesOnContainerMicroservice\\ProductCatalogAPI\\ProductCatalogAPI.csproj",
       "projectName": "ProductCatalogAPI",
-      "projectPath": "C:\\Users\\jancy\\source\\repos\\ShoesOnContainers\\ProductCatalogAPI\\ProductCatalogAPI.csproj",
+      "projectPath": "C:\\Users\\jancy\\Desktop\\GitHUB_Folder\\ShoesOnContainerMicroservice\\ProductCatalogAPI\\ProductCatalogAPI.csproj",
       "packagesPath": "C:\\Users\\jancy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jancy\\source\\repos\\ShoesOnContainers\\ProductCatalogAPI\\obj\\",
+      "outputPath": "C:\\Users\\jancy\\Desktop\\GitHUB_Folder\\ShoesOnContainerMicroservice\\ProductCatalogAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
